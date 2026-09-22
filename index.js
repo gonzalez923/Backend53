@@ -11,7 +11,7 @@ app.use(express.json()); // método que ayuda a convertir el código para que el
 app.use(cors({
     origin: [
         'http://localhost:4200',
-        'https://frontend2-seven-omega.vercel.app/'
+        'https://frontend2-zgjh.vercel.app/'
     ]
 
 })); // método para comunicar con el cliente
